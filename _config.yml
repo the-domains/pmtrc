@@ -1,0 +1,23 @@
+name: PMTRC
+favicon: null
+layout_spectrum: 0.7915884661488235
+typography_spectrum: 0.6669752381276339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4142849373165518
+  lightness: 0.2368137591984123
+  saturation: 0.8343382151797414
+  rhythmicContrast: 0.12547820433974266
+purpose: []
